@@ -1,5 +1,6 @@
 {
   "version": "0.3.0",
+  "mandatory": true,
   "changeLog":  ["1. Prueba de changelog", "2. Cambio de version"],
   "apkUrl": "https://github.com/oagp/media-tv-asesor-app/releases/download/v0.3.0-beta-3/media_tv_asesor.apk",
   "0.2.9": ["1. Prueba de changelog", "2. Cambio de version"]
