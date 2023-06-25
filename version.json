@@ -1,7 +1,7 @@
 {
   "version": "0.3.0",
   "mandatory": true,
-  "changeLog":  ["1. Prueba de changelog", "2. Cambio de version"],
-  "apkUrl": "https://github.com/oagp/media-tv-asesor-app/releases/download/v0.3.0-beta-3/media_tv_asesor.apk",
+  "changeLog":  ["1. Actualizacion automatica", "2. Mejoras en el calculo de la cantidad de creditos", "3. Actualizacion de datos de asesor"],
+  "apkUrl": "https://github.com/oagp/media-tv-asesor-apk/releases/download/0.3.0/MediaTv_Asesor.apk",
   "0.2.9": ["1. Prueba de changelog", "2. Cambio de version"]
 }
