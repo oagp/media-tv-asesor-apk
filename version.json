@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.0-beta",
   "mandatory": true,
   "changeLog":  ["1. Actualizacion automatica", "2. Mejoras en el calculo de la cantidad de creditos", "3. Actualizacion de datos de asesor"],
   "apkUrl": "https://github.com/oagp/media-tv-asesor-apk/releases/download/0.3.0/MediaTv_Asesor.apk",
