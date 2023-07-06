@@ -1,8 +1,9 @@
 {
-  "version": "0.6.0-beta",
+  "version": "0.7.0-beta",
   "mandatory": true,
-  "changeLog":  ["Nueva version estable sin auto actualizacion", "Boton para busqueda de actualizaciones a demanda"],
-  "apkUrl": "https://github.com/oagp/media-tv-asesor-apk/releases/download/0.6.0/MediaTv_Asesor.apk",
+  "changeLog":  ["- Descarga de reporte de usuarios","- Nuevos métodos de pago","- Ajustes de visualizacion"],
+  "apkUrl": "https://github.com/oagp/media-tv-asesor-apk/releases/download/0.7.0-beta/MediaTv_Asesor.apk",
+  "0.6.0-beta":  ["Nueva version estable sin auto actualizacion", "Boton para busqueda de actualizaciones a demanda"],
   "0.3.0-beta": ["1. Actualizacion automatica", "2. Mejoras en el calculo de la cantidad de creditos", "3. Actualizacion de datos de asesor"],
   "0.2.9": ["1. Prueba de changelog", "2. Cambio de version"]
 }
