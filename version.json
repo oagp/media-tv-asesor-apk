@@ -1,8 +1,9 @@
 {
-  "version": "0.8.0-beta",
+  "version": "0.9.0-beta",
   "mandatory": true,
-  "changeLog":  ["- Las notificaciones se muestran ahora en orden descentente por fecha","- Cambiar formato de fechas de MM/dd/yyyy a dd/MM/yyyy","- Solucionado: el usuario se pierde al renovar la suscripcion", "- Solucionado: mensaje erroneo en las notificiones de renovacion", "- Cambiar texto 'En mora' a 'Vencido' en la seccion 'Suscripciones'", "- Solucionado varios defectos de visualizacion"],
-  "apkUrl": "https://github.com/oagp/media-tv-asesor-apk/releases/download/0.8.0-beta/MediaTv_Asesor.apk",
+  "changelog": "- Soprte para sub distribuidores (BETA)"
+  "apkUrl": "https://github.com/oagp/media-tv-asesor-apk/releases/download/0.9.0-beta/app-release.apk",
+  "0.8.0-beta":  ["- Las notificaciones se muestran ahora en orden descentente por fecha","- Cambiar formato de fechas de MM/dd/yyyy a dd/MM/yyyy","- Solucionado: el usuario se pierde al renovar la suscripcion", "- Solucionado: mensaje erroneo en las notificiones de renovacion", "- Cambiar texto 'En mora' a 'Vencido' en la seccion 'Suscripciones'", "- Solucionado varios defectos de visualizacion"],
   "0.7.0-beta": ["- Descarga de reporte de usuarios","- Nuevos métodos de pago","- Ajustes de visualizacion"],
   "0.6.0-beta":  ["Nueva version estable sin auto actualizacion", "Boton para busqueda de actualizaciones a demanda"],
   "0.3.0-beta": ["1. Actualizacion automatica", "2. Mejoras en el calculo de la cantidad de creditos", "3. Actualizacion de datos de asesor"],
