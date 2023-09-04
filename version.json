@@ -1,7 +1,7 @@
 {
   "version": "0.9.1-beta",
   "mandatory": true,
-  "changelog": "- Nueva actualizacion",
+  "changelog": "[- Nueva actualizacion]",
   "apkUrl": "https://github.com/oagp/media-tv-asesor-apk/releases/download/0.9.1-beta/MediaTv_Asesor.apk",
   "0.9.0-beta": "- Soprte para sub distribuidores (BETA)",
   "0.8.0-beta":  ["- Las notificaciones se muestran ahora en orden descentente por fecha","- Cambiar formato de fechas de MM/dd/yyyy a dd/MM/yyyy","- Solucionado: el usuario se pierde al renovar la suscripcion", "- Solucionado: mensaje erroneo en las notificiones de renovacion", "- Cambiar texto 'En mora' a 'Vencido' en la seccion 'Suscripciones'", "- Solucionado varios defectos de visualizacion"],
